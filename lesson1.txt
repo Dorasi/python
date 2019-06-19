@@ -1,1 +1,1 @@
-print(УHello world!У)
+print(У ѕривет, мир!У)
